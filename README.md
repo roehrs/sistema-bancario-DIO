@@ -1,9 +1,12 @@
 # Sistema Bancário Simples
 
-Este é um sistema bancário simples desenvolvido em Python. Ele permite que os usuários depositem, saquem, transfiram dinheiro e visualizem o extrato de suas contas.
+Este é um programa simples de sistema bancário em Python que permite aos usuários realizar operações básicas como depósito, saque, transferência e exibição de extrato. Além disso, é possível cadastrar novos usuários no sistema.
 
-## Funcionalidades
+Projeto desenvolvido como parte do desenvolvimento da trilha de Python da DIO.
 
+Criado o projeto base conforme o desafio e adicionado novas funcionalidades.
+
+- **Cadastrar Usuário**: Permite adicionar novos usuários ao sistema.
 - **Autenticação de Usuário**: Os usuários precisam se autenticar com um nome de usuário e senha.
 - **Depósito**: Permite que os usuários depositem dinheiro em suas contas.
 - **Saque**: Permite que os usuários saquem dinheiro de suas contas, respeitando limites diários e de saldo.
@@ -33,6 +36,16 @@ Este é um sistema bancário simples desenvolvido em Python. Ele permite que os 
 - **Autenticação**: Implementa um sistema de login com autenticação por senha.
 - **Transações**: Funções para depósito, saque e transferência de dinheiro.
 - **Extrato**: Função para exibir o histórico de transações e o saldo atual.
+
+ ## 📋 Menu de Opções
+
+- `[c] Cadastrar Usuário`
+- `[d] Depositar`
+- `[s] Sacar`
+- `[t] Transferir`
+- `[e] Extrato`
+- `[q] Sair`
+
 
 ## Exemplo de Uso
 

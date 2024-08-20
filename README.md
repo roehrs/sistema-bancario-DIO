@@ -64,3 +64,17 @@ Depósito: R$ 1000.00
 
 Saldo: R$ 1000.00
 ==========================================
+
+## 📝 Notas
+
+- O programa utiliza a biblioteca `getpass` para ocultar a senha durante a digitação.
+- O limite de saques diários é configurado como 3 e o limite de valor para saque é R$ 500,00.
+- As senhas dos usuários são armazenadas em texto simples para simplificação. Em um sistema real, recomenda-se o uso de hashing para armazenar senhas de forma segura.
+
+## 📌 Requisitos
+
+- Python 3
+
+## 📧 Contato
+
+Para mais informações, entre em contato com diogoroehrs@gmail.com
